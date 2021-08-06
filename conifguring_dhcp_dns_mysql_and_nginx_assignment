@@ -39,4 +39,4 @@ server {
                 listen 8081;
                 server_name lt-2021-019.ml;
         return 404; # managed by Certbot
-        }
+}
